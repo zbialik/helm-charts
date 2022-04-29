@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-helm-chart
+  namespace: helix
+data:
+  foo: "bar"
