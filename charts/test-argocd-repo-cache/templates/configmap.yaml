@@ -1,6 +1,6 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: app-helm-chart-2
+  name: app-helm-chart-3
 data:
   foo: "bar"
