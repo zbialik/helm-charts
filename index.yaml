@@ -3,6 +3,16 @@ entries:
   test-argocd-repo-cache:
   - apiVersion: v2
     appVersion: 0.0.1
+    created: "2022-05-03T16:09:44.339365106Z"
+    description: A Helm chart for Kubernetes
+    digest: 638c88942a1ac059fee03693d4bcd16b20d3b64c3e329bf43cb7464ea143309c
+    name: test-argocd-repo-cache
+    type: application
+    urls:
+    - https://github.com/zbialik/charts/releases/download/test-argocd-repo-cache-0.0.5/test-argocd-repo-cache-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: 0.0.1
     created: "2022-05-03T15:46:29.514443702Z"
     description: A Helm chart for Kubernetes
     digest: 4d739a7f5127980752f4b29fe70025a00ff27fda062563583ea13a5ef0d04511
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/zbialik/charts/releases/download/test-argocd-repo-cache-0.0.1/test-argocd-repo-cache-0.0.1.tgz
     version: 0.0.1
-generated: "2022-05-03T15:46:29.514465503Z"
+generated: "2022-05-03T16:09:44.339517209Z"
