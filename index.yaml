@@ -72,4 +72,15 @@ entries:
     urls:
     - https://github.com/zbialik/charts/releases/download/test-argocd-repo-cache-0.0.1/test-argocd-repo-cache-0.0.1.tgz
     version: 0.0.1
-generated: "2023-12-26T20:13:59.038070127Z"
+  test-kargo-promotion:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2023-12-26T20:23:29.181454839Z"
+    description: A Helm chart for Kubernetes
+    digest: 54066c1e857fc33dd18d4fa632417bebfb871655df37f593ec70ad7699d919a0
+    name: test-kargo-promotion
+    type: application
+    urls:
+    - https://github.com/zbialik/helm-charts/releases/download/test-kargo-promotion-0.1.0/test-kargo-promotion-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-26T20:23:29.18147181Z"
