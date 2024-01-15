@@ -75,6 +75,16 @@ entries:
   test-kargo-promotion:
   - apiVersion: v2
     appVersion: 1.1.0
+    created: "2024-01-15T19:55:01.719930012Z"
+    description: A Helm chart for Kubernetes
+    digest: 9069fb2267042e419a7727406fe00399ebe3a54d02018d9f4fb37b52fbc49412
+    name: test-kargo-promotion
+    type: application
+    urls:
+    - https://github.com/zbialik/helm-charts/releases/download/test-kargo-promotion-1.0.4/test-kargo-promotion-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: 1.1.0
     created: "2024-01-15T19:51:32.019349057Z"
     description: A Helm chart for Kubernetes
     digest: 3bd67222153efc77bf1bc91364a84b218b9720a2e17159d126bd3bedd51271cc
@@ -193,4 +203,4 @@ entries:
     urls:
     - https://github.com/zbialik/helm-charts/releases/download/test-kargo-promotion-0.1.0/test-kargo-promotion-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-15T19:51:32.019433186Z"
+generated: "2024-01-15T19:55:01.720061587Z"
